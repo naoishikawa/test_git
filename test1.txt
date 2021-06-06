@@ -3,13 +3,3 @@ a
 aaaa
 
 
-<<<<<<< Updated upstream
-aaaaaa
-=======
-aaaaaa
-
-aaaaaaaaaa
-
-
-aaaaaaaaaaaaaa
->>>>>>> Stashed changes
